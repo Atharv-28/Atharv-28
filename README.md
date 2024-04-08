@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atharv Tambekar</h1>
-<h3 align="center">I am a student in Sanjay Ghodawat Institute</h3>
+<h3 align="center">I am a 3rd year student in Sanjay Ghodawat Institute</h3>
 
 - 🔭 I’m currently working on [Yog-fit](https://github.com/Atharv-28/Yog-fit)
 
-- 🌱 I’m currently learning **Graduating from diploma**
+- 🌱 I’m currently **Graduating from diploma**
 
 - 🤝 I’m looking for help with **Tensorflow Developer**
 
