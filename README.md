@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently **Graduating from diploma**
 
-- 🤝 I’m looking for help with **Tensorflow Developer**
+- 🤝 I’m looking for help with **React-Native App Developer**
 
 - 📫 How to reach me **atharvtambekar28@gmail.com**
 
