@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharv Tambekar</h1>
 <h3 align="center">I am a 3rd year student in Sanjay Ghodawat Institute</h3>
 
-- 🔭 I’m currently working on [Yog-fit](https://github.com/Atharv-28/Yog-fit)
+- 🔭 I’m currently working on [Logic Loop SGI(Website)](https://github.com/LogicLoopSGI/LogicLoopSGI)
 
 - 🌱 I’m currently **Graduating from diploma**
 
