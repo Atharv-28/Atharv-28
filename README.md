@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharv Tambekar</h1>
-<h3 align="center">I am a 3rd year student in Sanjay Ghodawat Institute</h3>
+<h3 align="center">I am a Full Stack Developer</h3>
 
 - (url)(url)🔭 I’m currently working on M-E-R-N Stack Development
 
