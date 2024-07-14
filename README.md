@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Atharv Tambekar</h1>
 <h3 align="center">I am a 3rd year student in Sanjay Ghodawat Institute</h3>
 
-- 🔭 I’m currently working on [Logic Loop SGI(Website)](https://github.com/LogicLoopSGI/LogicLoopSGI)
+- (url)(url)🔭 I’m currently working on M-E-R-N Stack Development
 
-- 🌱 I’m currently **Graduating from diploma**
+- 🌱 I’m currently **Graduated from diploma in Computer Science & Engineering**
 
-- 🤝 I’m looking for help with **React-Native App Developer**
+- 🤝 I’m looking for help with **AI & ML**
 
 - 📫 How to reach me **atharvtambekar28@gmail.com**
 
