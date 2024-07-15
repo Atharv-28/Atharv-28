@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharv Tambekar</h1>
 <h3 align="center">I am a Full Stack Developer</h3>
 
-- (url)(url)🔭 I’m currently working on M-E-R-N Stack Development
+- 🔭 I’m currently working on M-E-R-N Stack Development
 
 - 🌱 I’m currently **Graduated from diploma in Computer Science & Engineering**
 
