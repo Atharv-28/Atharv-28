@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Atharv Tambekar</h1>
 <h3 align="center">I am a Full Stack Developer</h3>
 
-- 🔭 I’m currently working on M-E-R-N Stack Development
+- 🔭 I’m currently working on Natural Language Processing
 
-- 🌱 I’m currently **Graduated from diploma in Computer Science & Engineering**
+- 🌱 I’m currently **2nd Year Student of B.Tech in Computer Science & Engineering**
 
 - 🤝 I’m looking for help with **AI & ML**
 
 - 📫 How to reach me **atharvtambekar28@gmail.com**
 
-- ⚡ Fun fact **I follow F1 & Cricket**
+- ⚡ Fun fact **I follow F1, Chess & Cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
