@@ -1,3 +1,5 @@
+![Header](https://user-images.githubusercontent.com/Atharv-28/header-dark-theme.png)
+
 <h1 align="center">Hi 👋, I'm Atharv Tambekar</h1>
 <h3 align="center">I am a Full Stack Developer</h3>
 
