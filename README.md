@@ -18,10 +18,11 @@
 
 - ⚡ Fun fact **I follow F1, Chess & Cricket**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/atharvmayur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/atharvmayur" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/atharv-tambekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atharv-tambekar/" height="30" width="40" /></a>
+## 📬 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/atharv-tambekar/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:atharvtambekar28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://portfolio-git-main-atharv-28s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
