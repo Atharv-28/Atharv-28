@@ -95,7 +95,7 @@ Tools :-
 
 ## 🏆 GitHub Achievements
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Atharv-28&theme=darkhub&no-frame=true&column=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Atharv-28&theme=darkhub&no-frame=true&column=8" alt="GitHub Trophies" />
 </p>
 
 
