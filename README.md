@@ -88,9 +88,14 @@ Tools :-
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv-28&show_icons=true&locale=en&layout=compact" alt="atharv-28" /></p>
+## 🌱 Contribution Graph
+<p>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Atharv-28&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharv-28&show_icons=true&locale=en" alt="atharv-28" /></p>
+## 🏆 GitHub Achievements
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Atharv-28&theme=darkhub&no-frame=true&column=5" alt="GitHub Trophies" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-28&" alt="atharv-28" /></p>
 
