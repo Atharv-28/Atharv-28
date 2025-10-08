@@ -8,9 +8,9 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
-- 🔭 I’m currently working on **Natural Language Processing**
+- 🔭 I’m currently working on **Machine Learning & Deep Learning**
 
-- 🌱 I’m currently **2nd Year Student of B.Tech in Computer Science & Engineering**
+- 🌱 I’m currently **3rd Year Student of B.Tech in Computer Science & Engineering**
 
 - 🤝 I’m looking for help with **AI & ML**
 
