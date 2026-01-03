@@ -76,7 +76,7 @@ Tools :-
   <img src="https://github-readme-stats.vercel.app/api?username=Atharv-28&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-28&layout=compact&theme=dark" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharv-28&theme=dark" alt="GitHub Streak" />
-
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Atharv-28&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ## 🏆 GitHub Achievements
